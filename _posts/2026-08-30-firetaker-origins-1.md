@@ -2,7 +2,7 @@
 title: "Firetaker Origins, Part 1"
 date: 2026-08-30
 categories: [design]
-tags: [design]
+tags: [design, panic-engine, xena]
 ---
 
 On December 28, 2024, I decided to make a Panic Engine™ game based on *Xena Warrior Princess*. I wanted to use the Panic Engine because I admire the system for its precision, concision, and matter-of-fact tone. And I wanted to do a Xena homage because it's simply the best television show of all time.
@@ -17,4 +17,4 @@ It didn't take long for me to realize the idea was a dead end. There was a basic
 
 I shelved the idea until April 5, 2025, when I was listening to Stephen Fry's *Mythos* and suddenly thought what if Prometheus had help?
 
-From there, I leaned into the Panic Engine ethos of surviving against impossible odds. If Zeus commanded an eagle to tear out Prometheus’s liver for all eternity, what would he do to mere mortals? They wouldn’t stand a chance. That fit the Panic Engine. That became Firetaker.
+From there, I leaned into the Panic Engine ethos of surviving against impossible odds. If Zeus commanded an eagle to tear out Prometheus’s liver for all eternity, what would he do to mere mortals? They wouldn’t stand a chance. That fit the Panic Engine. That became *Firetaker*.
