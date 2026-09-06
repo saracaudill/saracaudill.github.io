@@ -36,7 +36,7 @@ social:
   fediverse_handle: # fill in your fediverse handle. E.g. "@username@domain.com"
   links:
     # The first element serves as the copyright owner's link
-    - https://bsky.app/profile/username # change to your Bluesky profile
+    - https://bsky.app/profile/saracaudill.bsky.social
     - https://github.com/saracaudill # change to your GitHub homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
