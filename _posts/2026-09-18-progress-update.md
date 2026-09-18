@@ -1,6 +1,6 @@
 ---
 title: "Progress Update: September 2026"
-date: 2026-09-12
+date: 2026-09-18
 categories: [progress]
 tags: [progress]
 ---
