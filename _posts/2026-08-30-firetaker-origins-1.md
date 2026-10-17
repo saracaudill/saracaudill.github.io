@@ -2,7 +2,7 @@
 title: "Firetaker Origins, Part 1"
 date: 2026-08-30
 categories: [design]
-tags: [design, panic-engine, xena]
+tags: [design, process, panic-engine, xena]
 ---
 
 On December 28, 2024, I decided to make a Panic Engine™ game based on *Xena Warrior Princess*. I wanted to use the Panic Engine because I admire the system for its precision, concision, and matter-of-fact tone. And I wanted to do a Xena homage because it's simply the best television show of all time.
